@@ -26,7 +26,6 @@ git clone https://github.com/nickilchen/train-demo.git
             <image>registry.cn-shanghai.aliyuncs.com/gvsun/jdk:8u141</image>
         </from>
         <to>
-            <!-- 公司私有仓库外网环境地址：harbor.gvsun.net -->
             <image>192.168.1.134:443/lubanlou/${project.name}:${project.version}</image>
         </to>
         <!--容器相关的属性-->
